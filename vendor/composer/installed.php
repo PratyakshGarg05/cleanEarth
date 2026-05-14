@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'student/cleanearth',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '2e98f81d25d135792dcafaf55dd88aa6b8d53ad0',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -975,9 +975,9 @@
             'dev_requirement' => true,
         ),
         'student/cleanearth' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '2e98f81d25d135792dcafaf55dd88aa6b8d53ad0',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
